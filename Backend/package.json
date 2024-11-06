@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^1.7.7",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
@@ -18,7 +18,7 @@
     "is-empty": "^1.2.0",
     "mongoose": "^5.10.18",
     "nodemon": "^3.1.7",
-    "passport": "^0.4.1",
+    "passport": "^0.7.0",
     "passport-jwt": "^4.0.0",
     "validator": "^13.12.0"
   }

@@ -28,5 +28,5 @@ app.use("/api/users", users);
 require("./config/passport")(passport);
 app.use("/api/users", users);
 
-const port = 5000;
+const port = 4000;
 app.listen(port, () => console.log("Server is up and running on 5000"));
